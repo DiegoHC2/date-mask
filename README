@@ -1,9 +1,9 @@
- Sabendo que os bancos de dados utilizam padrão americanos constantemente precisamos realizar
-tratamentos em datas, este script tem como base facilitar estes trabalhos, modificando para 
-inserção e tratamento de datas no banco de dados.
+ Sabendo que os bancos de dados utilizam o padrão americanos para lidar com datas, precisamos realizar
+tratamentos com as mesmas, este script tem como base facilitar estes trabalhos, modificando para que a
+inserção e até o tratamento delas sejám feitas de formas mais rápidas.
 
 
-código com complexidade F(X) = n + m ou big O( n + m )
+Complexidade do código F(X) = n + m ou big O( n + m )
 
 
 espero que ajude ;D
